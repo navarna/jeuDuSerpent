@@ -1,0 +1,10 @@
+// AUTEUR  : Navarna et 2 collaborateurs 
+
+Programme c++ permettant de jouer au jeu echelle et serpent 
+
+Librairie graphique  : sfml 
+
+Compilation : makefile ( g++) 
+
+Fichier main: main.cpp 
+
